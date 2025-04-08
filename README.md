@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello! 👋
+
+- :snowflake: My name is Pedro Ariel
+- :globe_with_meridians: I'm currently interning at TCM/BA
+- :computer: I'm a student of Bacharelado Interdisciplinar em Ciência e Tecnologia at the Universidade Federal da Bahia
+
 
 <!--
 **PedroA31/PedroA31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
